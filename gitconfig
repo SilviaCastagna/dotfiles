@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = silvia.castagna82@gmail.com
+	name = Silvia Castagna
